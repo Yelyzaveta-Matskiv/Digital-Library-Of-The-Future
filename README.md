@@ -2,6 +2,8 @@ Roles:
 
 Polina Snuhurska - Designer
 
+Link on design:-
+
 Lilia Guglak - Backend developer
 
 Yelyzaveta Matskkiv - Frontend developer
