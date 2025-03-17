@@ -22,8 +22,9 @@ and recommendations based on browsing history, making it easier to access academ
 
 ---------------------------------------------------------------------------------------
 
-Task distribution: https://app.clickup.com/9015850733/v/b/4-90153173349-2
+Task distribution: 
 --------------------------
+https://app.clickup.com/9015850733/v/b/4-90153173349-2
 
 Link on main page:-
 -------------------------
