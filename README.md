@@ -1,3 +1,14 @@
+Project description:
+------------------------------
+
+Digital Library Of Future
+---------------------------------
+- is a digital solution for university libraries with voice search
+
+and recommendations based on browsing history, making it easier to access academic resources.
+
+---------------------------------------------------------------------------------------
+
 Roles:
 ----------------
 
@@ -10,17 +21,6 @@ Lilia Guglak - Backend developer
 Yelyzaveta Matskiv - Frontend developer
 
 --------------------------------------------------------------------------------------
-
-Project description:
-------------------------------
-
-Digital Library Of Future
----------------------------------
-- is a digital solution for university libraries with voice search
-
-and recommendations based on browsing history, making it easier to access academic resources.
-
----------------------------------------------------------------------------------------
 
 Task distribution: 
 --------------------------
