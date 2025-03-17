@@ -7,7 +7,7 @@ Link on design: https://www.figma.com/design/khMN0MaiJA8VxQFUdLTDjM/Untitled?nod
 
 Lilia Guglak - Backend developer
 
-Yelyzaveta Matskkiv - Frontend developer
+Yelyzaveta Matskiv - Frontend developer
 
 --------------------------------------------------------------------------------------
 
