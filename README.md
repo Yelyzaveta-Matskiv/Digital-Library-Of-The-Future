@@ -3,7 +3,7 @@ Roles:
 
 Polina Snuhurska - Designer
 
-Link on design:https://www.figma.com/design/khMN0MaiJA8VxQFUdLTDjM/Untitled?node-id=0-1&t=ZsskA4ql6sQRZFOu-1
+Link on design: https://www.figma.com/design/khMN0MaiJA8VxQFUdLTDjM/Untitled?node-id=0-1&t=ZsskA4ql6sQRZFOu-1
 
 Lilia Guglak - Backend developer
 
